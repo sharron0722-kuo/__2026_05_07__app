@@ -1,0 +1,6 @@
+{
+  "name": "競賽計時器",
+  "description": "兩組獨立的計時器，適用於班級比賽或體育競技，具備開始、暫停與重設功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
